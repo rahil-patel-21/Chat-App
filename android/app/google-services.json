@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569694036888",
+    "firebase_url": "https://techexperiment001.firebaseio.com",
+    "project_id": "techexperiment001",
+    "storage_bucket": "techexperiment001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569694036888:android:f4a77cf2def151a09241ed",
+        "android_client_info": {
+          "package_name": "com.flutterfirebase.techexperiment001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569694036888-fmg099qk1rb8e5ve7a6uq9h28lce12gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterfirebase.techexperiment001",
+            "certificate_hash": "0961bc593ac3cdd8c78fc3c14116e4b805f8c9c0"
+          }
+        },
+        {
+          "client_id": "569694036888-lluejc385v831f1tlrhbnirig0p8m733.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54VkWfcVgeba_IcpJMIzDjcqIY1xDu3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569694036888-lluejc385v831f1tlrhbnirig0p8m733.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

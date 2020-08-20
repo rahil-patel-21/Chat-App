@@ -1,0 +1,4 @@
+enum ImageSendingState {
+  Sending,
+  NotSending,
+}
